@@ -184,8 +184,8 @@ const (
 
 // Node Type definitions.
 const (
-	NodeTypeSGSN uint8 = iota
-	NodeTypeMME
+	NodeTypeMME uint8 = iota
+	NodeTypeSGSN
 )
 
 // Protocol ID definitions.
